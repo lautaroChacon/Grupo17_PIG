@@ -1,7 +1,7 @@
 # Grupo17_PIG
 
 ## Integrantes del grupo:
-- Fede
-- Lautaro 
+- Federico
+- Lautaro Schnaider
 - Junior Nogueria
 - Lautaro Chacon
